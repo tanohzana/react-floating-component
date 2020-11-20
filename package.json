@@ -1,9 +1,16 @@
 {
   "name": "react-floating-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component wrapper that makes it float randomly up, down, left, right.",
   "author": "tanohzana",
   "license": "MIT",
+  "keywords": [
+    "react",
+    "library",
+    "ui",
+    "floating",
+    "component"
+  ],
   "repository": "tanohzana/react-floating-component",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
