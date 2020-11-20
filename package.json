@@ -1,5 +1,5 @@
 {
-  "name": "@tanohzana/react-floating-component",
+  "name": "react-floating-component",
   "version": "1.0.0",
   "description": "A React component wrapper that makes it float randomly up, down, left, right.",
   "author": "tanohzana",
