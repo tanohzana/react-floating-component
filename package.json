@@ -4,7 +4,7 @@
   "description": "A React component wrapper that makes it float randomly up, down, left, right.",
   "author": "tanohzana",
   "license": "MIT",
-  "repository": "tanohzana/@tanohzana/react-floating-component",
+  "repository": "tanohzana/react-floating-component",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
