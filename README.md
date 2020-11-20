@@ -7,22 +7,21 @@
 ## Install
 
 ```bash
-npm install --save @tanohzana/react-floating-component
+npm install @tanohzana/react-floating-component
 ```
 
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
+import React from 'react';
 
-import MyComponent from '@tanohzana/react-floating-component'
-import '@tanohzana/react-floating-component/dist/index.css'
+import FloatingComponent from '@tanohzana/react-floating-component';
 
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
-}
+const ExampleComponent = () => {
+  return (
+    <FloatingComponent><p>This is a floating paragraph</p></FloatingComponent>
+  );
+};
 ```
 
 ## License

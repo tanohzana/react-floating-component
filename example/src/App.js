@@ -1,10 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-import { ExampleComponent } from '@tanohzana/react-floating-component'
-import '@tanohzana/react-floating-component/dist/index.css'
+import FloatingComponent from '@tanohzana/react-floating-component';
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
-}
+  return <FloatingComponent><p>This is a test</p></FloatingComponent>
+};
 
-export default App
+export default App;
